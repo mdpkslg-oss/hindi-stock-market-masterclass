@@ -14,9 +14,10 @@ const lessonTitles = [
   "Chart Pattern",
   "Intraday Trading",
   "Swing Trading",
-  "Positional Trading"
+  "Positional Trading",
+  "Trading Psychology",
+  "The Secrets No One Tells You"
 ];
-"Trading Psychology"
 const lessonList = document.getElementById("lesson-list");
 
 if (lessonList) {
