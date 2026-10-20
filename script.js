@@ -1,23 +1,22 @@
-
 const lessonTitles = [
-  "What Is the Stock Market?",
-  "NSE, BSE, NIFTY 50 & SENSEX",
+  "What is Share Market?",
+  "NSE, BSE, NIFTY50 & SENSEX",
   "How to Buy and Sell Shares",
-  "What Are Candlesticks?",
-  "What Is a Timeframe?",
-  "Support and Resistance Levels",
-  "How to Identify a Trend",
+  "What is Candlestick?",
+  "What is Timeframe?",
+  "Support and Resistance",
+  "How to Find Trend",
   "Breakout and Breakdown",
   "Trading Volume",
   "Moving Average",
   "RSI",
   "MACD",
-  "Chart Patterns",
-  "Intraday, Swing and Positional Trading",
-  "Trading Psychology",
-  "The Secret No One Tells You"
+  "Chart Pattern",
+  "Intraday Trading",
+  "Swing Trading",
+  "Positional Trading"
 ];
-
+"Trading Psychology"
 const lessonList = document.getElementById("lesson-list");
 
 if (lessonList) {
