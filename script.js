@@ -76,7 +76,15 @@ if (studentLessons) {
 const year = document.getElementById("year");
 if (year) year.textContent = new Date().getFullYear();
 
+
 const buyButton = document.getElementById("buy-button");
+
+if (buyButton) {
+  buyButton.addEventListener("click", () => {
+    window.location.href = "https://rzp.io/rzp/ayqvH4l8";
+  });
+}
+
 
 if (buyButton) {
   buyButton.addEventListener("click", () => {
